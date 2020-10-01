@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itissandeep98&layout=compact" alt="languages">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/kinshuk-chopra-2162111b5/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:kinshuk18239@iiitd.ac.in)](mailto:kinshuk18239@iiitd.ac.in)
 
 
 ## Technology Stack
