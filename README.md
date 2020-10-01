@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **kinshuk330/kinshuk330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=itissandeep98&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kinshuk330&show_icons=true">
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
